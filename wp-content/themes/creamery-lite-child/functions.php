@@ -18,9 +18,7 @@ function content_about_us_shortcode($atts)
         return '<p>Content missing<p>';
     }
     //Input content
-    $output = '<p>';
-    $output .= $content;
-    $output .= '</p>';
+    $output = $content;
 
     return $output;
 }
