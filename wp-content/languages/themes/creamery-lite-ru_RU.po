@@ -1,0 +1,358 @@
+# Translation of Themes - Creamery Lite in Russian
+# This file is distributed under the same license as the Themes - Creamery Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-14 17:44:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Creamery Lite\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Creamery Lite"
+msgstr "Creamery Lite"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "The Creamery Lite is a smooth, clear and minimalistic free food and bakery WordPress theme. This theme is specially designed for bakery and it is a prime example of what a bakery website should look like. It can be used for cake, ice cream parlous, sandwich, muffin, sweets shops, bakeries, dessert cafes, cup cakeries, pastry chefs, gift shop, restaurants or coffee shops. Creamery has an attractive, elegant and great design for all food-based businesses. The simple design is crafted in the flat style and features beautiful homepage sections to show off your baked products. The theme has a responsive design for viewing on mobile device. This multipurpose theme is also suitable for business, corporate, construction, architect, personal, blog, photography, hotel, yoga, fiteness blub, education, study, modeling, beauty, spa, and any other business websites. Demo Link: https://www.gracethemes.com/demo/creamery/"
+msgstr "The Creamery Lite - это гладкая, четкая и минималистичная бесплатная тема WordPress, посвященная продуктам питания и пекарням. Эта тема специально разработана для пекарен и является ярким примером того, как должен выглядеть сайт пекарни. Она может быть использована для магазинов тортов, мороженого, сэндвичей, кексов, сладостей, пекарен, кафе с десертами, чашек, кондитерских, магазинов подарков, ресторанов или кофеен. Creamery имеет привлекательный, элегантный и отличный дизайн для всех предприятий пищевой промышленности. Простой дизайн выполнен в плоском стиле и содержит красивые разделы главной страницы для демонстрации вашей выпечки. Тема имеет отзывчивый дизайн для просмотра на мобильных устройствах. Эта многоцелевая тема также подходит для бизнес-сайтов, корпоративных, строительных, архитектурных, персональных, блогов, фотографий, гостиниц, йоги, фитнес-центров, образования, учебы, модельного бизнеса, салонов красоты, спа и любых других бизнес-сайтов. Ссылка на демонстрацию: https://www.gracethemes.com/demo/creamery/"
+
+#: functions.php:147
+msgid "https://gracethemes.com/documentation/creamery-doc/#homepage-lite"
+msgstr "https://gracethemes.com/documentation/creamery-doc/#homepage-lite"
+
+#: functions.php:148
+msgid "https://gracethemes.com/demo/creamery/"
+msgstr "https://gracethemes.com/demo/creamery/"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать вашу первую запись? Начните здесь."
+
+#: footer.php:15
+msgid "Theme by Grace Themes"
+msgstr "Тема от Grace Themes"
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: customize-pro/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: customize-pro/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: 404.php:17
+msgid "Looks like you have taken a wrong turn.....Dont worry... it happens to the best of us."
+msgstr "Похоже, вы взяли неправильный поворот ... . Не волнуйтесь ... это случается с лучшими из нас."
+
+#: content.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение <span class=\"meta-nav\">&rarr;</span>"
+
+#: header.php:64
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:179
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: image.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущее"
+
+#: image.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующее <span class=\"meta-nav\">&rarr;</span>"
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: no-results.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но по вашему запросу ничего не найдено. Пожалуйста, попробуйте поискать с другим запросом."
+
+#: no-results.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищете. Возможно, поможет поиск."
+
+#. translators: %s: search term
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/about-themes.php:11 inc/about-themes.php:20
+msgid "About Theme Info"
+msgstr "Информация о теме"
+
+#: inc/about-themes.php:23
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/about-themes.php:27
+msgid "Theme Customizer"
+msgstr "Настройки темы"
+
+#: inc/about-themes.php:28
+msgid "The built-in customizer panel quickly change aspects of the design and display changes live before saving them."
+msgstr "Встроенная панель настройщика быстро меняет дизайн и отображает изменения в реальном времени перед их сохранением."
+
+#: inc/about-themes.php:32
+msgid "Responsive Ready"
+msgstr "Адаптивный дизайн"
+
+#: inc/about-themes.php:33
+msgid "The themes layout will automatically adjust and fit on any screen resolution and looks great on any device. Fully optimized for iPhone and iPad."
+msgstr "Разметка тем автоматически подстраивается под любое разрешение экрана и отлично смотрится на любом устройстве. Полностью оптимизировано под iPhone и iPad."
+
+#: inc/about-themes.php:37
+msgid "Cross Browser Compatible"
+msgstr "Совместимость с браузерами"
+
+#: inc/about-themes.php:38
+msgid "Our themes are tested in all mordern web browsers and compatible with the latest version including Chrome,Firefox, Safari, Opera, IE11 and above."
+msgstr "Наши темы проверены во всех современных браузерах, включая Chrome, Firefox, Safari, Opera, IE11 и выше, и совместимы с их последними версиями."
+
+#: inc/about-themes.php:42
+msgid "E-commerce"
+msgstr "Электронная коммерция"
+
+#: inc/about-themes.php:43
+msgid "Fully compatible with WooCommerce plugin. Just install the plugin and turn your site into a full featured online shop and start selling products."
+msgstr "Полная совместимость с плагином WooCommerce. Просто установите плагин и превратите свой сайт в полнофункциональный интернет-магазин и начинайте продавать товары."
+
+#: inc/about-themes.php:51
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/customizer.php:36
+msgid "Theme Options Panel"
+msgstr "Панель настроек темы"
+
+#: inc/customizer.php:326
+msgid "Check To show This Section"
+msgstr "Отметьте, чтобы показывать этот раздел"
+
+#: inc/customizer.php:279
+msgid "Add facebook link here"
+msgstr "Добавьте ссылку на Facebook здесь"
+
+#: inc/customizer.php:290
+msgid "Add twitter link here"
+msgstr "Добавьте ссылку на Twitter здесь"
+
+#: inc/customizer.php:301
+msgid "Add google plus link here"
+msgstr "Добавьте здесь ссылку на Google+"
+
+#: inc/customizer.php:312
+msgid "Add linkedin link here"
+msgstr "Добавьте ссылку на LinkedIn здесь"
+
+#: inc/customizer.php:136 inc/customizer.php:227 inc/customizer.php:260
+msgid "Check To Show This Section"
+msgstr "Отметьте, чтобы показывать этот раздел"
+
+#: inc/customizer.php:144
+msgid "Select pages from the dropdown for services section"
+msgstr "Выберите страницы из выпадающего списка для раздела услуг"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Рубрика"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "Архивы"
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr "Мета"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Поиск…"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: content-page.php:18 content-search.php:28 content-single.php:29
+#: content.php:36 image.php:56 template-full-width.php:24
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content-page.php:23 content-search.php:39 content-single.php:40
+#: content.php:16 image.php:30 image.php:62
+msgid "Edit"
+msgstr "Изменить"
+
+#: functions.php:58
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: functions.php:59
+msgid "Appears on blog page sidebar"
+msgstr "Появится на боковой панели страницы блога"
+
+#. Translators: If there are any character that are not supported by Assistant,
+#. trsnalate this to off, do not translate into your own language.
+#: functions.php:84
+msgctxt "Assistant:on or off"
+msgid "on"
+msgstr "on"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 не найдено"
+
+#: inc/customizer.php:65
+msgid "More color options in PRO Version"
+msgstr "Больше цветовых настроек в версии PRO"
+
+#. Translators: If there are any character that are not supported by Open Sans,
+#. trsnalate this to off, do not translate into your own language.
+#: functions.php:90
+msgctxt "Open Sans:on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are any character that are not supported by Kaushan
+#. Script, trsnalate this to off, do not translate into your own language.
+#: functions.php:78
+msgctxt "Kaushan Script:on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/customizer.php:52
+msgid "Check to Box Layout"
+msgstr "Отметьте для макета блока"
+
+#: inc/customizer.php:53
+msgid "If you want to box layout please check the Box Layout Option."
+msgstr "Если вы хотите использовать макет блока, отметьте опцию Макет блока."
+
+#: inc/customizer.php:122
+msgid "Add slider Read more button name here"
+msgstr "Укажите название кнопки «Читать далее» в слайдере"
+
+#: inc/customizer.php:267
+msgid "Footer social icons"
+msgstr "Значки социальных сетей в подвале"
+
+#: inc/customizer.php:73
+msgid "Slider Section"
+msgstr "Раздел слайдера"
+
+#: inc/customizer.php:87
+msgid "Select page for slide one:"
+msgstr "Выберите страницу для первого слайдера:"
+
+#: inc/customizer.php:99
+msgid "Select page for slide two:"
+msgstr "Выберите страницу для второго слайдера:"
+
+#: inc/customizer.php:111
+msgid "Select page for slide three:"
+msgstr "Выберите страницу для третьего слайдера:"
+
+#: footer.php:15
+msgid "All Rights Reserved"
+msgstr "Все права защищены"
+
+#: inc/about-themes.php:50
+msgid "Live Demo"
+msgstr "Демонстрация в реальном времени"
+
+#: inc/customizer.php:41
+msgid "Site Layout"
+msgstr "Макет сайта"
+
+#: inc/customizer.php:64
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: inc/customizer.php:143
+msgid "Services Section"
+msgstr "Раздел Услуги"
+
+#: footer.php:20
+msgid "Follow Us "
+msgstr "Присоединяйтесь к нам "
+
+#: inc/about-themes.php:22
+msgid "The Creamery Lite is a smooth, clear and minimalistic free food and bakery WordPress theme. This theme is specially designed for bakery and it is a prime example of what a bakery website should look like. It can be used for cake, ice cream parlous, sandwich, muffin, sweets shops, bakeries, dessert cafes, cup cakeries, pastry chefs, gift shop, restaurants or coffee shops. Creamery has an attractive, elegant and great design for all food-based businesses. The simple design is crafted in the flat style and features beautiful homepage sections to show off your baked products. The theme has a responsive design for viewing on mobile device. "
+msgstr "The Creamery Lite — это плавная, понятная и минималистичная бесплатная тема WordPress для продуктов питания и выпечки. Эта тема специально разработана для пекарни и является ярким примером того, как должен выглядеть веб-сайт пекарни. Его можно использовать для тортов, мороженого, сэндвичей, кексов, кондитерских, пекарен, десертных кафе, кондитерских, кондитерских, сувенирных магазинов, ресторанов или кафе. Creamery имеет привлекательный, элегантный и отличный дизайн для всех предприятий пищевой промышленности. Простой дизайн выполнен в плоском стиле и имеет красивые разделы на главной странице, чтобы продемонстрировать свою выпечку. Тема имеет адаптивный дизайн для просмотра на мобильных устройствах. "
+
+#: inc/customizer.php:75
+msgid "Default image size for slider is 1400 x 800 pixel."
+msgstr "Размер изображения по умолчанию для слайдера составляет 1400x800 пикселей."
+
+#: inc/customizer.php:156
+msgid "Add services title here"
+msgstr "Добавьте названия услуг здесь"
+
+#: inc/customizer.php:168
+msgid "Add services short description here"
+msgstr "Добавить краткое описание услуг здесь"
+
+#: inc/customizer.php:234
+msgid "Welcome Section"
+msgstr "Раздел Добро пожаловать"
+
+#: inc/customizer.php:235
+msgid "Select Pages from the dropdown for welcome section"
+msgstr "Выберите страницы из выпадающего списка для приветственного раздела"
+
+#: inc/customizer.php:268
+msgid "Add social icons link here to display icons in footer"
+msgstr "Добавьте ссылки для социальных значков, чтобы показывать их в подвале"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Grace Themes"
+msgstr "Grace Themes"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://gracethemes.com/"
+msgstr "https://gracethemes.com/"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://gracethemes.com/themes/free-food-bakery-wordpress-theme/"
+msgstr "https://gracethemes.com/themes/free-food-bakery-wordpress-theme/"
